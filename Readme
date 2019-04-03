@@ -1,19 +1,16 @@
-# Analysing Youtube Channels
+# Online Dating Platform
 
-## 1. Elements that lead to success of a youtube channel (Channel Host)
+## 1. Does online dating platform actually helps?
 
-* Common elements that appear in the top channels e.g. country, length of video, 
-* Identify Corporate channels from Individuals channels
-* Genre that are the most popular, e.g. *music, sports, fitness, science, entertainment*
-* Ways to trigger more 'Shares','Thumbs Up'
-* video that requires log in
+This is project I am trying to find out the usefulness of online dating platform. They have been around for nearly a decade take Tinder, a dating app as an example. And I realise new dating apps keep evolving and the existing ones add new features once in a while to widen their user base and solidify their market shares.
 
+With the data I collected from Kaggle and a dataset set collected online from Social Science Department of Stanford University, I am able to conduct analysis on how they help in terms of having people fall in love( from tinder dates to lovers). It will be presented as a comparison between traditional dating and online dating platform in order to show the contrast and significance.
 
-## 2. Behavior of youtube viewers (Audience)
-* Demographics
-* Amount of time users spend on watching youtube
-* Hour of the day 
-* Share/Comment/Subscribtion habits
+The variables of the cleaned dataset will include the marital status, sexual orientation, the online dating platform of the sample, where numeric variables will be the year a couple knew each other, the year they couple as well as the year they get married, if it applies. 
+
+The analysis is mainly shown and presented in bar charts and pie charts. Due to limitation of data types, correlation graph, distribution graph and hypothesis testing is not feasible. More relevant numeric data is needed before application of any of these statistical method. The approach is fairly straight forward and simple. 
+
+The quality of online platform dates and the effectiveness of them are yet to be discovered. As the raw data as such is scarce and exclusive. As most similar kind of analysis are published and well presented in graphs, there are little room for further analysis in new areas.
 
 
 
